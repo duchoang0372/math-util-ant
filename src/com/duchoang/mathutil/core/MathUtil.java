@@ -1,10 +1,6 @@
 
 package com.duchoang.mathutil.core;
 
-/**
- *
- * @author Lenovo
- */
 // ta sẽ clone class Math của JDK
 // Class của ta viết sẽ cung cap các ham/mehtod tiện ích dùng chung cho nhiều nơi khác nhau
 // Thường cái gì mà là tiện ích/tool dùng chung cho các nơi thì nó sẽ được thiết kế là STATIC

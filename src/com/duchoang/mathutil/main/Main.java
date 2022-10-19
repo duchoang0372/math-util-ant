@@ -5,7 +5,7 @@ import com.duchoang.mathutil.core.MathUtil;
 
 /**
  *
- * @author Lenovo
+ * @author duchoang
  */
 public class Main {
 
