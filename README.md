@@ -1,9 +1,9 @@
-[![CI with GitHub Actions using Ant and JUnit | © 2022 by duchoang](https://github.com/n-d-h/math-util-ant/actions/workflows/ci-with-ant.yml/badge.svg)](https://github.com/n-d-h/math-util-ant/actions/workflows/ci-with-ant.yml)
+[![CI with GitHub Actions using Ant and JUnit | © 2022 by duchoang ](https://github.com/n-d-h/math-util-ant/actions/workflows/ci-with-ant.yml/badge.svg)](https://github.com/n-d-h/math-util-ant/actions/workflows/ci-with-ant.yml)
 
 
 # Welcome to Math Utility Repository
 
-### You will find in this repo the following stuff:
+### You will find in this repo the following belongings:
 
 * The MathUtil.java - a replication of the famous JDK's library java.util.Math
 * Unit Test script using JUnit framework
